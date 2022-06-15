@@ -22,3 +22,5 @@ For any questions about this project, contact me at:
 
 
 ## Demo Video Link
+Part 1 - https://drive.google.com/file/d/1wd2iCelfXYvoxESdiEX4BMErICe4w3yp/view
+Part 2 - https://drive.google.com/file/d/1rK9zmptOy8sTBhb-gFLBwgQIBe1JLeFo/view
